@@ -1,0 +1,3 @@
+// Author: John Olson
+
+I have figured out how to pull, push, add, and commit files on github now
